@@ -1,0 +1,8 @@
+# Smart Home Geyser Project
+
+Automates geyser activation when homeowner gets out of bed. Implemented in C++ with classes for homeowner, smart geyser, environment sensor, and water heater.
+
+## Features
+
+- Automatically activates geyser based on homeowner's activity.
+- Adjusts heating temperature based on current environment temperature.
